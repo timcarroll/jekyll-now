@@ -4,12 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Hello, I'm Tim Carroll. I am a software engineer from Austin, currently building products at Amazon. I'm also an alum of The University of Texas, where I studied computer science. Feel free to reach out to talk tech or Longhorns 🤘
