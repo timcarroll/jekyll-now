@@ -3,7 +3,7 @@ layout: post
 title: Hello Github!
 ---
 
-I've had personal websites in the past, hosted all over the place – Squarespace, Linode, etc... but I always end up back on Twitter (which is still the likely outcome of this – you can find me @_timcarroll).
+I've had personal websites in the past, hosted all over the place – Squarespace, Linode, etc... but I always end up back on Twitter (which is still the likely outcome of this – you can find me [@_timcarroll](https://twitter.com/_timcarroll)).
 
 I usually post only a few times a year and can't justify the expense of those services. But Twitter is becoming a bit of a shit show at the time of this writing (early 2018), so I'm going to get back in the game of owning my own content.
 
